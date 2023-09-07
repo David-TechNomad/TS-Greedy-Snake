@@ -71,5 +71,5 @@ npm run build
 
 ### **其他**
 
-[TypeScript文档](http://localhost:8080/my-blog/2023/09/07/typescript/)
+[TypeScript文档](https://dsh225.github.io/my-blog/2023/09/07/typescript/)
 
